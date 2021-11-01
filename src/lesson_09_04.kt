@@ -13,3 +13,6 @@ class Generic<T> {
         property = p
     }
 }
+
+/*массивы списски и словари все эторазные варианты параметризированных классов*/
+class Generic2<T>(val property: T)
